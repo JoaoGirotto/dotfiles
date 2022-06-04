@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joaodiasvitor12@gmail.com
+	name = Joao Girotto
